@@ -10,12 +10,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wumpuspro/discordclone.js.git"
+    "url": "git+https://github.com/Miya25/Discord-Clone-.git"
   },
   "bugs": {
-    "url": "https://github.com/Wumpuspro/discordclone.js/issues"
+    "url": "https://github.com/Miya25/Discord-Clone-/issues"
   },
-  "homepage": "https://github.com/Wumpuspro/discordclone.js#readme",
+  "homepage": "https://github.com/Miya25/Discord-Clone-#readme",
   "description": "",
   "devDependencies": {
     "@types/chai-as-promised": "^7.1.4",
